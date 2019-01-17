@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b731dd22b7ce04744ae5bbba06db6ea1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aoDaiNam1
+    100004: bodyShape_skin_Shape
+    100006: ear_dummy_Shape
+    100008: eye_l_Shape
+    100010: eye_r_Shape
+    100012: eyelash_l_down_Shape
+    100014: eyelash_l_up_Shape
+    100016: eyelash_r_down_Shape
+    100018: eyelash_r_up_Shape
+    100020: MV_Hair_Shape
+    100022: shoes_l_Shape
+    100024: shoes_r_Shape
+    400000: //RootNode
+    400002: aoDaiNam1
+    400004: bodyShape_skin_Shape
+    400006: ear_dummy_Shape
+    400008: eye_l_Shape
+    400010: eye_r_Shape
+    400012: eyelash_l_down_Shape
+    400014: eyelash_l_up_Shape
+    400016: eyelash_r_down_Shape
+    400018: eyelash_r_up_Shape
+    400020: MV_Hair_Shape
+    400022: shoes_l_Shape
+    400024: shoes_r_Shape
+    2100000: aodai_FRONT_4186
+    2100002: Material4173
+    2100004: Material4167
+    2100006: Material4183
+    2100008: Material4178
+    2100010: Material4198
+    2100012: coAo_FRONT_3574
+    2100014: Material4220
+    2100016: Material3676
+    2100018: Material3681
+    2100020: Material3686
+    2100022: Material3691
+    2100024: Material3696
+    2100026: Material3703
+    2100028: Material3714
+    2100030: Material3719
+    2100032: Material3728
+    2100034: Material3732
+    2100036: Material3832
+    2100038: Material3837
+    2100040: Material3842
+    2100042: Material3850
+    2100044: Material3852
+    2100046: Material3854
+    2100048: Material3856
+    2100050: Material3858
+    2100052: Material3864
+    2100054: Material3866
+    2100056: Material3868
+    2100058: Material3870
+    2100060: Material3872
+    2300000: aoDaiNam1
+    2300002: bodyShape_skin_Shape
+    2300004: ear_dummy_Shape
+    2300006: eye_l_Shape
+    2300008: eye_r_Shape
+    2300010: eyelash_l_down_Shape
+    2300012: eyelash_l_up_Shape
+    2300014: eyelash_r_down_Shape
+    2300016: eyelash_r_up_Shape
+    2300018: MV_Hair_Shape
+    2300020: shoes_l_Shape
+    2300022: shoes_r_Shape
+    3300000: aoDaiNam1
+    3300002: bodyShape_skin_Shape
+    3300004: ear_dummy_Shape
+    3300006: eye_l_Shape
+    3300008: eye_r_Shape
+    3300010: eyelash_l_down_Shape
+    3300012: eyelash_l_up_Shape
+    3300014: eyelash_r_down_Shape
+    3300016: eyelash_r_up_Shape
+    3300018: MV_Hair_Shape
+    3300020: shoes_l_Shape
+    3300022: shoes_r_Shape
+    4300000: aoDaiNam1
+    4300002: eyelash_r_up_Shape
+    4300004: eyelash_r_down_Shape
+    4300006: eyelash_l_down_Shape
+    4300008: eyelash_l_up_Shape
+    4300010: ear_dummy_Shape
+    4300012: MV_Hair_Shape
+    4300014: eye_l_Shape
+    4300016: eye_r_Shape
+    4300018: bodyShape_skin_Shape
+    4300020: shoes_l_Shape
+    4300022: shoes_r_Shape
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

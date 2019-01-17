@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: a09a4e0428c8e04489c10aba7ec5550e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Chest2
+    100004: Chest3
+    100006: Chest4
+    100008: crude_male_shirt_obj
+    100010: crudeloosepants_obj_001
+    100012: Head
+    100014: high-poly_obj_001
+    100016: Hips
+    100018: LeftAnkle
+    100020: LeftCollar
+    100022: LeftElbow
+    100024: LeftHip
+    100026: LeftKnee
+    100028: LeftShoulder
+    100030: LeftToe
+    100032: LeftWrist
+    100034: male_generic_obj_001
+    100036: //RootNode
+    100038: Neck
+    100040: RightAnkle
+    100042: RightCollar
+    100044: RightElbow
+    100046: RightHip
+    100048: RightKnee
+    100050: RightShoulder
+    100052: RightToe
+    100054: RightWrist
+    100056: VuSeoHoa-MuaKhen-001
+    400000: Chest
+    400002: Chest2
+    400004: Chest3
+    400006: Chest4
+    400008: crude_male_shirt_obj
+    400010: crudeloosepants_obj_001
+    400012: Head
+    400014: high-poly_obj_001
+    400016: Hips
+    400018: LeftAnkle
+    400020: LeftCollar
+    400022: LeftElbow
+    400024: LeftHip
+    400026: LeftKnee
+    400028: LeftShoulder
+    400030: LeftToe
+    400032: LeftWrist
+    400034: male_generic_obj_001
+    400036: //RootNode
+    400038: Neck
+    400040: RightAnkle
+    400042: RightCollar
+    400044: RightElbow
+    400046: RightHip
+    400048: RightKnee
+    400050: RightShoulder
+    400052: RightToe
+    400054: RightWrist
+    400056: VuSeoHoa-MuaKhen-001
+    2100000: Material_002__crude_male_tex_png
+    2100002: Material_001__CrudeLoosePantsDiffuse_png_001
+    2100004: Eye_brown_001__brown_eye_png_001
+    2100006: old_asian_male_001__old_lightskinned_male_diffuse2_png_001
+    4300000: crude_male_shirt_obj
+    4300002: crudeloosepants_obj_001
+    4300004: high-poly_obj_001
+    4300006: male_generic_obj_001
+    7400000: Default Take
+    7400002: VuSeoHoa-MuaKhen-001
+    9500000: //RootNode
+    13700000: crude_male_shirt_obj
+    13700002: crudeloosepants_obj_001
+    13700004: high-poly_obj_001
+    13700006: male_generic_obj_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_brown_001__brown_eye_png_001
+    second: {fileID: 2100000, guid: 1873ea90aa499c242887ef19a5c16d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__CrudeLoosePantsDiffuse_png_001
+    second: {fileID: 2100000, guid: 084246e2e5345b341ad0052cbd02565e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__crude_male_tex_png
+    second: {fileID: 2100000, guid: 3d220478ac00dcf40ae3105100ead128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: old_asian_male_001__old_lightskinned_male_diffuse2_png_001
+    second: {fileID: 2100000, guid: cad7cc75a61664747b077fe6bad84611, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

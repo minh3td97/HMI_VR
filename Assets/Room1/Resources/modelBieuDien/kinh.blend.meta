@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: c61c9f036ef3b1847892155dd11f626f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Chest2
+    100004: Chest3
+    100006: Chest4
+    100008: female_casualsuit02_obj
+    100010: female_generic_obj
+    100012: Head
+    100014: high-poly_obj
+    100016: Hips
+    100018: //RootNode
+    100020: LeftAnkle
+    100022: LeftCollar
+    100024: LeftElbow
+    100026: LeftHip
+    100028: LeftKnee
+    100030: LeftShoulder
+    100032: LeftToe
+    100034: LeftWrist
+    100036: Neck
+    100038: RightAnkle
+    100040: RightCollar
+    100042: RightElbow
+    100044: RightHip
+    100046: RightKnee
+    100048: RightShoulder
+    100050: RightToe
+    100052: RightWrist
+    100054: short02_obj
+    100056: ThiKinh-coHien-001
+    400000: Chest
+    400002: Chest2
+    400004: Chest3
+    400006: Chest4
+    400008: female_casualsuit02_obj
+    400010: female_generic_obj
+    400012: Head
+    400014: high-poly_obj
+    400016: Hips
+    400018: //RootNode
+    400020: LeftAnkle
+    400022: LeftCollar
+    400024: LeftElbow
+    400026: LeftHip
+    400028: LeftKnee
+    400030: LeftShoulder
+    400032: LeftToe
+    400034: LeftWrist
+    400036: Neck
+    400038: RightAnkle
+    400040: RightCollar
+    400042: RightElbow
+    400044: RightHip
+    400046: RightKnee
+    400048: RightShoulder
+    400050: RightToe
+    400052: RightWrist
+    400054: short02_obj
+    400056: ThiKinh-coHien-001
+    2100000: female_casualsuit02__female_casualsuit02_diffuse_png
+    2100002: young_asian_female__young_lightskinned_female_diffuse3_png
+    2100004: Eye_brown__brown_eye_png
+    2100006: short02__short02_diffuse_png
+    4300000: female_casualsuit02_obj
+    4300002: female_generic_obj
+    4300004: high-poly_obj
+    4300006: short02_obj
+    7400000: Default Take
+    7400002: ThiKinh-coHien-001
+    9500000: //RootNode
+    13700000: female_casualsuit02_obj
+    13700002: female_generic_obj
+    13700004: high-poly_obj
+    13700006: short02_obj
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ThiKinh-coHien-001
+      takeName: ThiKinh-coHien-001
+      firstFrame: 0
+      lastFrame: 6803
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 4f265ee1feed7db4c895e4d4d7b508e8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Chest2
+    100004: Chest3
+    100006: Chest4
+    100008: Chest5
+    100010: Chest6
+    100012: Chest7
+    100014: Chest_0
+    100016: crude_male_shirt_obj
+    100018: crudefemaletshirt_obj
+    100020: crudeloosepants_obj
+    100022: crudeloosepants_obj_001
+    100024: female_generic_obj
+    100026: Head
+    100028: Head_0
+    100030: high-poly_obj
+    100032: high-poly_obj_001
+    100034: Hips
+    100036: Hips_0
+    100038: LeftAnkle
+    100040: LeftAnkle_0
+    100042: LeftCollar
+    100044: LeftCollar_0
+    100046: LeftElbow
+    100048: LeftElbow_0
+    100050: LeftHip
+    100052: LeftHip_0
+    100054: LeftKnee
+    100056: LeftKnee_0
+    100058: LeftShoulder
+    100060: LeftShoulder_0
+    100062: LeftToe
+    100064: LeftToe_0
+    100066: LeftWrist
+    100068: LeftWrist_0
+    100070: lytruong-crop
+    100072: //RootNode
+    100074: male_generic_obj_001
+    100076: medop
+    100078: Neck
+    100080: Neck_0
+    100082: RightAnkle
+    100084: RightAnkle_0
+    100086: RightCollar
+    100088: RightCollar_0
+    100090: RightElbow
+    100092: RightElbow_0
+    100094: RightHip
+    100096: RightHip_0
+    100098: RightKnee
+    100100: RightKnee_0
+    100102: RightShoulder
+    100104: RightShoulder_0
+    100106: RightToe
+    100108: RightToe_0
+    100110: RightWrist
+    100112: RightWrist_0
+    100114: wig_bun_blonde_obj
+    400000: Chest
+    400002: Chest2
+    400004: Chest3
+    400006: Chest4
+    400008: Chest5
+    400010: Chest6
+    400012: Chest7
+    400014: Chest_0
+    400016: crude_male_shirt_obj
+    400018: crudefemaletshirt_obj
+    400020: crudeloosepants_obj
+    400022: crudeloosepants_obj_001
+    400024: female_generic_obj
+    400026: Head
+    400028: Head_0
+    400030: high-poly_obj
+    400032: high-poly_obj_001
+    400034: Hips
+    400036: Hips_0
+    400038: LeftAnkle
+    400040: LeftAnkle_0
+    400042: LeftCollar
+    400044: LeftCollar_0
+    400046: LeftElbow
+    400048: LeftElbow_0
+    400050: LeftHip
+    400052: LeftHip_0
+    400054: LeftKnee
+    400056: LeftKnee_0
+    400058: LeftShoulder
+    400060: LeftShoulder_0
+    400062: LeftToe
+    400064: LeftToe_0
+    400066: LeftWrist
+    400068: LeftWrist_0
+    400070: lytruong-crop
+    400072: //RootNode
+    400074: male_generic_obj_001
+    400076: medop
+    400078: Neck
+    400080: Neck_0
+    400082: RightAnkle
+    400084: RightAnkle_0
+    400086: RightCollar
+    400088: RightCollar_0
+    400090: RightElbow
+    400092: RightElbow_0
+    400094: RightHip
+    400096: RightHip_0
+    400098: RightKnee
+    400100: RightKnee_0
+    400102: RightShoulder
+    400104: RightShoulder_0
+    400106: RightToe
+    400108: RightToe_0
+    400110: RightWrist
+    400112: RightWrist_0
+    400114: wig_bun_blonde_obj
+    2100000: Hair__wig_bun_blonde_diff1_png
+    2100002: Eye_brown__brown_eye_png
+    2100004: young_asian_female__young_lightskinned_female_diffuse3_png
+    2100006: Material_002__CrudeLoosePantsDiffuse_png
+    2100008: Material_001__CrudeLoosePantsDiffuse_png
+    2100010: Eye_brown_001__brown_eye_png_001
+    2100012: Material_003__CrudeLoosePantsDiffuse_png_001
+    2100014: Material_004__crude_male_tex_png
+    2100016: old_asian_male_001__old_lightskinned_male_diffuse2_png_001
+    4300000: wig_bun_blonde_obj
+    4300002: high-poly_obj
+    4300004: female_generic_obj
+    4300006: crudeloosepants_obj
+    4300008: crudefemaletshirt_obj
+    4300010: high-poly_obj_001
+    4300012: crudeloosepants_obj_001
+    4300014: crude_male_shirt_obj
+    4300016: male_generic_obj_001
+    7400000: Default Take
+    7400002: lytruong-crop
+    7400004: medop_002
+    9500000: //RootNode
+    13700000: crude_male_shirt_obj
+    13700002: crudefemaletshirt_obj
+    13700004: crudeloosepants_obj
+    13700006: crudeloosepants_obj_001
+    13700008: female_generic_obj
+    13700010: high-poly_obj
+    13700012: high-poly_obj_001
+    13700014: male_generic_obj_001
+    13700016: wig_bun_blonde_obj
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_brown_001__brown_eye_png_001
+    second: {fileID: 2100000, guid: b2e6ee42628f2e94dae004ea40987801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_brown__brown_eye_png
+    second: {fileID: 2100000, guid: 17ca42a7c756abb4c919a2ee3307f96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair__wig_bun_blonde_diff1_png
+    second: {fileID: 2100000, guid: d1723508ace31894ca1f224bb6ac9d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__CrudeLoosePantsDiffuse_png
+    second: {fileID: 2100000, guid: b7f98fe68e186414ea11f064700a6f50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__CrudeLoosePantsDiffuse_png
+    second: {fileID: 2100000, guid: a4ed7f077ff2ce048bfd4c721ecf0325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__CrudeLoosePantsDiffuse_png_001
+    second: {fileID: 2100000, guid: 79e0b04cd286a6147afc30d5a79c013e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__crude_male_tex_png
+    second: {fileID: 2100000, guid: 6a156ae17ee2cd8498c49bbe8675b36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: old_asian_male_001__old_lightskinned_male_diffuse2_png_001
+    second: {fileID: 2100000, guid: b47ab2e757cda984a8d41c3667a48d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: young_asian_female__young_lightskinned_female_diffuse3_png
+    second: {fileID: 2100000, guid: 0e05a4d0fb03cef488a58fd8d5723dc9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

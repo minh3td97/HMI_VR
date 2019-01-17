@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: db3ffec5213047a44aadf1e2715582f7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_002
+    100004: Cylinder_000
+    100006: Cylinder_001
+    100008: Cylinder_002
+    100010: Cylinder_003
+    100012: Cylinder_004
+    100014: Cylinder_005
+    100016: Cylinder_006
+    100018: Cylinder_007
+    100020: Cylinder_008
+    100022: Cylinder_009
+    100024: Cylinder_010
+    100026: Empty
+    100028: //RootNode
+    400000: Circle
+    400002: Circle_002
+    400004: Cylinder_000
+    400006: Cylinder_001
+    400008: Cylinder_002
+    400010: Cylinder_003
+    400012: Cylinder_004
+    400014: Cylinder_005
+    400016: Cylinder_006
+    400018: Cylinder_007
+    400020: Cylinder_008
+    400022: Cylinder_009
+    400024: Cylinder_010
+    400026: Empty
+    400028: //RootNode
+    2100000: Material_011
+    2100002: Material_011__canh-dao-tet-file-cdr-free-vector-1665_jpg
+    2100004: unnamed
+    2100006: Material
+    2100008: Material_001
+    2100010: Material_002
+    2100012: Material_003
+    2100014: Material_010
+    2100016: Material_008
+    2100018: Material_007
+    2100020: Material_006
+    2100022: Material_005
+    2100024: Material_004
+    2100026: Material_009
+    2300000: Circle
+    2300002: Circle_002
+    2300004: Cylinder_000
+    2300006: Cylinder_001
+    2300008: Cylinder_002
+    2300010: Cylinder_003
+    2300012: Cylinder_004
+    2300014: Cylinder_005
+    2300016: Cylinder_006
+    2300018: Cylinder_007
+    2300020: Cylinder_008
+    2300022: Cylinder_009
+    2300024: Cylinder_010
+    3300000: Circle
+    3300002: Circle_002
+    3300004: Cylinder_000
+    3300006: Cylinder_001
+    3300008: Cylinder_002
+    3300010: Cylinder_003
+    3300012: Cylinder_004
+    3300014: Cylinder_005
+    3300016: Cylinder_006
+    3300018: Cylinder_007
+    3300020: Cylinder_008
+    3300022: Cylinder_009
+    3300024: Cylinder_010
+    4300000: Circle_002
+    4300002: Circle
+    4300004: Cylinder_010
+    4300006: Cylinder_009
+    4300008: Cylinder_008
+    4300010: Cylinder_007
+    4300012: Cylinder_006
+    4300014: Cylinder_005
+    4300016: Cylinder_004
+    4300018: Cylinder_003
+    4300020: Cylinder_002
+    4300022: Cylinder_000
+    4300024: Cylinder_001
+    6400000: Circle
+    6400002: Circle_002
+    6400004: Cylinder_000
+    6400006: Cylinder_001
+    6400008: Cylinder_002
+    6400010: Cylinder_003
+    6400012: Cylinder_004
+    6400014: Cylinder_005
+    6400016: Cylinder_006
+    6400018: Cylinder_007
+    6400020: Cylinder_008
+    6400022: Cylinder_009
+    6400024: Cylinder_010
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d47679652ff73d04fad4b9c11d633ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 3f81be3ca80366e43b116d0f1a3f6667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: e167fe5284608464e8bd1c9e7fbd500d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: dd7e1f0562f5894498ba1013b723f833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: b79b76d9387574743997cb6e22b4e126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: 5f6adfa0314651b40862c07c23aa8611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: c136f6a5ae93dd941a72f4a78d507a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 2e22640fb2c45224f8dd730d078e5172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: 86ce9ddff462ea945849b5866101ab4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: dc3d515a0bf1bfb48b086e480ae31880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: a9486f701cf6f88458c5dd4a9ed3a643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: ba64d9d7c3e7e74478db6b31dc49277b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011__canh-dao-tet-file-cdr-free-vector-1665_jpg
+    second: {fileID: 2100000, guid: 92ddc42aab7c52a4594722918d4f5722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 3db1f2f1835bbdd4a92319e02c2935d8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
